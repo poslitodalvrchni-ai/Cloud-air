@@ -4,12 +4,12 @@
   "logo": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/cloudairlogo.png?raw=true",
   "liveries": [
     {
-      "aircraft": "airbus_a350-900",
+      "aircraft": "a350-900",
       "name": "Cloud Air A350 Flagship Livery",
       "texture": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/plane.png?raw=true"
     },
     {
-      "aircraft": "airbus_a220-300",
+      "aircraft": "a220-300",
       "name": "Cloud Air Regional Livery",
       "texture": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/csa.png?raw=true"
     }
