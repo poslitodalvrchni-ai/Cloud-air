@@ -1,0 +1,17 @@
+{
+  "airline": "Cloud Air",
+  "author": "poslitodalvrchni-ai",
+  "logo": "https://githubusercontent.com",
+  "liveries": [
+    {
+      "aircraft": "a350",
+      "name": "Cloud Air A350 Flagship Livery",
+      "texture": "https://githubusercontent.com"
+    },
+    {
+      "aircraft": "a220",
+      "name": "Cloud Air Regional Livery",
+      "texture": "https://githubusercontent.com"
+    }
+  ]
+}
