@@ -1,17 +1,37 @@
 {
-  "airline": "Cloud Air",
-  "author": "poslitodalvrchni-ai",
-  "logo": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/cloudairlogo.png",
-  "liveries": [
-    {
-      "aircraft": "airbus_a350-900",
-      "name": "Cloud Air A350 Flagship Livery",
-      "texture": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/plane.png"
+  "name": "Cloud Air",
+  "color": "white",
+  "bgcolor": "darkblue",
+  "aircrafts": {
+    "239": {
+      "name": "Airbus a350-900",
+      "liveries": [
+        {
+          "name": "Cloud Air A350 Flagship Livery",
+          "texture": [
+            "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/plane.png"
+          ],
+          "credits": "poslitodalvrchni-ai"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
     },
-    {
-      "aircraft": "a220-300",
-      "name": "Cloud Air Regional Livery",
-      "texture": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/csa.png"
+    "2899": {
+      "name": "Airbus a220-300",
+      "liveries": [
+        {
+          "name": "Cloud Air Regional Livery",
+          "texture": [
+            "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/csa.png"
+          ],
+          "credits": "poslitodalvrchni-ai"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
     }
-  ]
+  }
 }
