@@ -1,17 +1,17 @@
 {
   "airline": "Cloud Air",
   "author": "poslitodalvrchni-ai",
-  "logo": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/cloudairlogo.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/cloudairlogo.png",
   "liveries": [
     {
-      "aircraft": "a350-900",
+      "aircraft": "airbus_a350-900",
       "name": "Cloud Air A350 Flagship Livery",
-      "texture": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/plane.png?raw=true"
+      "texture": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/plane.png"
     },
     {
       "aircraft": "a220-300",
       "name": "Cloud Air Regional Livery",
-      "texture": "https://github.com/poslitodalvrchni-ai/Cloud-air/blob/main/csa.png?raw=true"
+      "texture": "https://raw.githubusercontent.com/poslitodalvrchni-ai/Cloud-air/refs/heads/main/csa.png"
     }
   ]
 }
